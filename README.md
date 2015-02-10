@@ -1,4 +1,4 @@
 # HuffmanEndcoding
-Huffman Encoding Assignment
-Author: Trevor Baron, Alan Gong, Jason Wang
-Date: Feb 10, 2015
+Huffman Encoding Assignment<br>
+Author: Trevor Baron, Alan Gong, Jason Wang<br>
+Date: Feb 10, 2015<br>
